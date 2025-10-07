@@ -1,4 +1,16 @@
 # GRU Baseline for Next-Day BMW.DE Price Forecast (Delta Target)
+<p align="left">
+  <a href="https://github.com/Rupesh1Khanal/bmw-gru-forecast/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Rupesh1Khanal/bmw-gru-forecast?style=social">
+  </a>
+  <a href="https://github.com/Rupesh1Khanal/bmw-gru-forecast/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/Rupesh1Khanal/bmw-gru-forecast">
+  </a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.10+-blue">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-2.10%2B-orange">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/Rupesh1Khanal/bmw-gru-forecast">
+</p>
 
 This repository contains a clean, reproducible pipeline to forecast **next-day adjusted close** for **BMW.DE** using a single-layer **GRU** trained on **price deltas** (next-day change).  
 The goal is to establish a strong, transparent **baseline** and compare it against a **naive persistence** model (price[t] = price[t−1]) with leak-free evaluation.
