@@ -1,0 +1,16 @@
+{
+  "seq_len": 30,
+  "units": 96,
+  "dropout": 0.1,
+  "lr": 0.0005,
+  "batch": 32,
+  "epochs": 100,
+  "val_rmse_naive": 1.6109,
+  "val_rmse_model": 1.6077,
+  "val_r2": 0.9256,
+  "val_improve_%": 0.2,
+  "test_rmse_naive": 1.9328,
+  "test_rmse_model": 1.9322,
+  "test_r2": 0.9567,
+  "test_improve_%": 0.03
+}

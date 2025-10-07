@@ -1,0 +1,69 @@
+# --- Python bytecode / caches ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# --- Virtual envs / dotenv ---
+.venv/
+venv/
+env/
+ENV/
+.python-version
+.env
+.env.*
+
+# --- Notebooks ---
+.ipynb_checkpoints/
+
+# --- Editors / OS ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Build / packaging (if any) ---
+build/
+dist/
+*.egg-info/
+
+# --- Data (always regenerated via yfinance) ---
+data/
+
+# --- Arrays & heavy intermediates ---
+*.npy
+*.npz
+
+# --- Extra run dirs (if you ever add them) ---
+runs/
+logs/
+checkpoints/
+models/
+
+# --- Model/weight formats (ignore by default) ---
+*.h5
+*.hdf5
+*.ckpt
+*.ckpt.*
+*.tflite
+*.pb
+*.onnx
+*.keras
+
+# --- Artifacts: keep only the essentials ---
+# First ignore everything in artifacts/
+artifacts/**
+# Then whitelist exactly what we want to version
+!artifacts/
+!artifacts/best_gru_bmw_model.keras
+!artifacts/metrics.json
+!artifacts/config.json
+!artifacts/env.json
+!artifacts/feature_list.txt
+!artifacts/loss_curve_log.png
+!artifacts/loss_curve_smooth.png
+!artifacts/val_actual_vs_pred.png
+!artifacts/test_actual_vs_pred.png

@@ -1,0 +1,13 @@
+{
+  "ticker": "BMW.DE",
+  "start": "2010-01-01",
+  "end": "2025-06-01",
+  "seq_len": 30,
+  "units": 96,
+  "dropout": 0.1,
+  "lr": 0.0005,
+  "batch": 32,
+  "epochs": 100,
+  "patience_es": 10,
+  "patience_rlr": 5
+}

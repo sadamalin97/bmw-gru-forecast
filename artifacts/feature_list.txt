@@ -1,0 +1,13 @@
+Adj Close
+Close
+High
+Low
+Open
+Volume
+Return
+MA_10
+MA_30
+AdjClose_MA_10_diff
+Volatility_10
+Momentum_10
+AdjClose_lag1
