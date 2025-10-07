@@ -1,4 +1,9 @@
 # GRU Baseline for Next-Day BMW.DE Price Forecast (Delta Target)
+
+<a href="https://github.com/Rupesh1Khanal/bmw-gru-forecast/blob/main/LICENSE">
+  <img alt="License" src="https://img.shields.io/github/license/Rupesh1Khanal/bmw-gru-forecast">
+</a>
+
 <p align="left">
   <a href="https://github.com/Rupesh1Khanal/bmw-gru-forecast/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Rupesh1Khanal/bmw-gru-forecast?style=social">
