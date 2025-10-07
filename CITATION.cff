@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "GRU Baseline for Next-Day BMW.DE Price Forecast (Delta Target)"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - given-names: Rupesh
+    family-names: Khanal
+repository-code: "https://github.com/Rupesh1Khanal/bmw-gru-forecast"
+version: "v0.1.0"
+date-released: "2025-10-07"
+license: "MIT"
+abstract: >
+  This repository contains a clean, reproducible GRU-based forecasting pipeline
+  for next-day adjusted close prediction of BMW.DE using a delta-target formulation.
+  Originally developed as a machine learning course assignment, it has since been
+  extended into a complete, research-ready project featuring structured preprocessing,
+  training logs, reproducible artifacts, and evaluation plots.
+keywords:
+  - GRU
+  - Time Series Forecasting
+  - Stock Prediction
+  - Deep Learning
+  - TensorFlow
+  - Reproducible Research
+  - Machine Learning
